@@ -18,7 +18,7 @@ Verificação de String:
 A resposta é **77**. A variável `k` foi inicializada com o valor 1 e o loop passará 11 vezes. A cada iteração, o valor de `k` é acrescido de 1 e atribuído à variável `soma`, que recebe seu próprio valor somado ao novo valor de `k` em cada ciclo.
 
 ### Resposta 4:
-Proximos numeros das sequenacias:
+Proximos numeros das sequencias:
 
 a) **9**
 
